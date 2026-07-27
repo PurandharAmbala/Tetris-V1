@@ -1,8 +1,8 @@
 const Colors = {
-    RED: 1,
-    BLUE: 2,
-    YELLOW: 3,
-    GREEN: 4,
+    RED: 4,
+    BLUE: 3,
+    YELLOW: 2,
+    GREEN: 1,
 };
 
 const randomColor = () => {
